@@ -1,0 +1,8 @@
+br\unincor\va3\model\dao\GenericDAO.class
+br\unincor\va3\model\domain\Estado.class
+br\unincor\va3\configuracoes\HibernateUtil.class
+br\unincor\va3\model\domain\Usuario.class
+br\unincor\va3\model\UsuarioException.class
+br\unincor\va3\controller\ProdutoBean.class
+br\unincor\va3\model\dao\UsuarioDao.class
+br\unincor\va3\model\service\UsuarioService.class
